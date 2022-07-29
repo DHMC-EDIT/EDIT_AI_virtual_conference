@@ -20,7 +20,7 @@ text_skin: dartmouth # default # "default" (default), "dark", "forest", "ocean",
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : QBS185 2022 Virtual Conference
+title   : EDIT ML 2022 Virtual Conference
 description: > # this means to ignore newlines until "Language & timezone"
   End of summer poster and video presentations.
 

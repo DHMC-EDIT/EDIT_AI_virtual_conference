@@ -55,7 +55,7 @@ key: page-about
     style="background-color: rgba(0, 0, 0, 0.6)">
     <div class="flex justify-center items-center h-full">
       <div class="text-white">
-        <h2 class="font-semibold text-4xl mb-4" style="color: white">QBS185 Summer Capstone Projects</h2>
+        <h2 class="font-semibold text-4xl mb-4" style="color: white">EDIT ML Intern Summer Projects</h2>
         <h4 class="font-semibold text-xl mb-6" style="color: white">Program Information</h4>
         <a
           class="inline-block px-7 py-3 mb-1 border-2 border-gray-200 text-gray-200 font-medium text-sm leading-snug uppercase rounded hover:bg-black hover:bg-opacity-5 focus:outline-none focus:ring-0 transition duration-150 ease-in-out"
@@ -89,13 +89,17 @@ key: page-about
           focus:outline-none
         " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
           aria-controls="collapseOne">
-          Capstone Goals
+          What is the EDIT ML Summer Internship program?
         </button>
       </h2>
       <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
         data-bs-parent="#accordionExample">
         <div class="accordion-body py-4 px-5">
-          The <strong>goal of the capstone</strong> is to enable students to refine their skill set as they work on a research or applied data science, epidemiology or medical informatics project. The capstone also provides training in critical professional skills including scientific writing, presentation skills, and translating the findings of a research or applied project to key stakeholders who may not have expertise in the domain. Preparation for the capstone project begins in August of the first year and culminates in a written white paper and presentation at the end of the summer term.
+        The <a href="https://levylab.host.dartmouth.edu/"><strong>Emerging Diagnostic and Investigative Technologies (EDIT)</strong> Machine Learning program</a> is an integrated and collaborative resource spanning across multiple clinical departments and is focused on developing innovative diagnostic AI technologies.
+
+        Interns will learn to develop and apply artificial intelligence technologies in medicine with an emphasis on cancer translational sciences. Program components will include: 1) didactics with lectures, online tutorials, and workshop classes featuring a biomedical curriculum covering key biomedical and artificial intelligence concepts; 2) guided research projects with emphasis on building research independence, and 3) supported basic lab research. Students will work as members of existing labs to develop algorithms across the range of diagnostic methods in pathology and other clinical subspecialties, from cancer detection and gigapixel image manipulation to text prediction, amongst others.  Students will be mentored by biomedical researchers and clinicians from the departments of Pathology, Dermatology, Radiation Oncology, Quantitative Biomedical Sciences, Epidemiology and Biomedical Data Science.  
+
+        Through participation in the summer internship program, interns will learn to design and pitch projects, to use and develop open-source, reproducible biomedical informatics software, and to work in a team culture which promotes broad collaboration.
         </div>
       </div>
     </div>
@@ -118,17 +122,19 @@ key: page-about
           focus:outline-none
         " type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false"
           aria-controls="collapseTwo">
-          What kind of projects have students worked on this Summer?
+          What will students learn about in the EDIT ML program?
         </button>
       </h2>
       <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
         data-bs-parent="#accordionExample">
         <div class="accordion-body py-4 px-5">
-          Students will work on one of the <strong>following three types of projects</strong>:
-          <ul class="list-disc">
-            <li>Individual project with Dartmouth PI</li>
-            <li>Individual project based external experience (e.g., internship)</li>
-            <li>Collaborative group project</li>
+        Students will <strong>learn about</strong>:
+          <ul class="list-decimal">
+            <li>Medical subspecialties and current biomedical challenges</li>
+            <li>Computer programming, statistics and artificial intelligence technologies</li>
+            <li>Potential application of AI technologies to clinical practice</li>
+            <li>High performance computing</li>
+            <li>Professional development skills, i.e., prepare presentations, write manuscripts, scientific research process.</li>
           </ul>
         </div>
       </div>
@@ -152,13 +158,18 @@ key: page-about
           focus:outline-none
         " type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false"
           aria-controls="collapseThree">
-          What is the Program in Quantitative Biomedical Sciences?
+          Information on program tracks:
         </button>
       </h2>
       <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
         data-bs-parent="#accordionExample">
         <div class="accordion-body py-4 px-5">
-          The <strong>Graduate Program in Quantitative Biomedical Sciences (QBS)</strong> provides training for Master's and PhD students in Biostatistics, Bioinformatics, Epidemiology, Health Data Science and Medical Informatics, including the development and application of artificial intelligence technologies. Graduating students are well positioned for jobs in industry and academia. QBS Master's students have enrolled in the following program tracks: 1) Epidemiology, 2) Health Data Science, and 3) Medical Informatics. More information on QBS can be found <a href="https://geiselmed.dartmouth.edu/qbs/">here</a>.
+        Students are placed into <strong>one of three tracks</strong>:
+          <ul class="list-decimal">
+            <li>Skills Development Track: for students who are learning or have learned basic programming skills and/or are interested in computational projects with medical applications. These students will work through learning modules and complete mini-projects for their summer experience. The emphasis is for the student to learn more about biomedical research and build advanced programming skills. Students may have the option to work on supervised research projects.</li>
+            <li>Advanced Research Track: This track is for students who have demonstrated proficiency in programming and some familiarity with machine learning and statistics. Students here will conduct independent research in tandem with their team and project mentors and will work through advanced computing learning modules. Expectations are for students to complete a research project during the program from design to manuscript.</li>
+            <li>Mentor Track: Track for students who have completed 1-2 years of research in the EDIT ML summer program, these students will serve as peer mentors for project teams and contribute to the seminar series and development of educational curriculum. Mentors can also conduct research during this time.</li>
+          </ul>
         </div>
       </div>
     </div>
@@ -168,7 +179,7 @@ key: page-about
     <div class="p-6 shadow-lg rounded-lg bg-white text-grey-700">
       <h2 class="font-semibold text-3xl mb-5">Featured Projects</h2>
       <p>
-        Our Master's students have put together some absolutely incredible projects that we are excited to share program faculty.
+        Our EDIT ML interns have put together some absolutely incredible projects that we are excited to share program faculty and the broader clinical community at Dartmouth Health.
       </p>
       <hr class="my-6 border-gray-300" />
       <p>
