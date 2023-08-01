@@ -27,8 +27,8 @@ key: page-about
 ---
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements/dist/css/index.min.css" />
-<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tw-elements@1.0.0-alpha13/dist/css/index.min.css" />
+<script src="https://cdn.tailwindcss.com/3.0.0"></script>
 <script>
   tailwind.config = {
     theme: {
@@ -40,9 +40,9 @@ key: page-about
     }
   }
 </script>
-<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tw-elements@1.0.0-alpha13/dist/js/index.min.js"></script>
 
-<!-- <script src="https://cdn.tailwindcss.com"></script> -->
+<!-- <script src="https://cdn.tailwindcss.com/3.0.0"></script> -->
 
 <div
   class="p-12 text-center relative overflow-hidden bg-no-repeat bg-cover rounded-lg"
